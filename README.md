@@ -40,3 +40,12 @@ You will see something like the following
 Click on the current deployment to see the progress
 
 ![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/2000b1f1-6909-4252-a953-2ebd3a5c679f)
+
+Once completed you will have 3 Virtual machines
+
+- A Domain Controller
+- 2 SQL VM's
+
+Both VM's will be joined to the domain.
+
+To log into the domain, use the credentials that were entered as paramaters when running the bicep file.
