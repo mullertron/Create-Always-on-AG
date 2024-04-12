@@ -27,3 +27,16 @@ Run the following commands to deploy the files
 ~~~~~
 az deployment group create --resource-group [RGName] --template-file lab04-setup.bicep
 ~~~~~
+
+Note: The Deployment will take about 20 minutes to complete
+
+You can review the deployment by clicking on the Resource group in the portal and selecting Deployments
+![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/ebec3952-f714-45f2-8764-93134b6780ab)
+
+
+You will see something like the following
+![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/276451a5-d303-4f65-be95-a560a9bf90c8)
+
+Click on the current deployment to see the progress
+
+![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/2000b1f1-6909-4252-a953-2ebd3a5c679f)
