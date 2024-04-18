@@ -35,6 +35,9 @@ You can review the deployment by clicking on the Resource group in the portal an
 
 
 You will see something like the following
+
+![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/2ea9f813-5027-4740-ab6f-a1b85f674dd3)
+
 ![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/276451a5-d303-4f65-be95-a560a9bf90c8)
 
 Click on the current deployment to see the progress
