@@ -39,7 +39,8 @@ You will see something like the following
 
 Click on the current deployment to see the progress
 
-![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/2000b1f1-6909-4252-a953-2ebd3a5c679f)
+![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/af69847a-07d8-416e-849c-81f6b839da89)
+
 
 Once completed you will have 3 Virtual machines
 
