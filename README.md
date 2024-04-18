@@ -33,13 +33,13 @@ Note: The Deployment will take about 20 minutes to complete
 You can review the deployment by clicking on the Resource group in the portal and selecting Deployments
 ![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/ebec3952-f714-45f2-8764-93134b6780ab)
 
-![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/544e7f15-98f7-4186-83a7-22797f18ef5c)
+
 
 You will see something like the following
 
 ![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/2ea9f813-5027-4740-ab6f-a1b85f674dd3)
 
-![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/276451a5-d303-4f65-be95-a560a9bf90c8)
+
 
 Click on the current deployment to see the progress
 
