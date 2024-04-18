@@ -28,6 +28,12 @@ Run the following commands to deploy the files
 az deployment group create --resource-group [RGName] --template-file ag-setup.bicep
 ~~~~~
 
+You will then be prompted to enter a username and password
+
+
+
+![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/45e26c6c-21d9-43bd-b245-986dd72587b5)
+
 Note: The Deployment will take about 20 minutes to complete
 
 You can review the deployment by clicking on the Resource group in the portal and selecting Deployments
