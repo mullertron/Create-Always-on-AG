@@ -31,7 +31,10 @@ az deployment group create --resource-group [RGName] --template-file lab04-setup
 Note: The Deployment will take about 20 minutes to complete
 
 You can review the deployment by clicking on the Resource group in the portal and selecting Deployments
-![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/ebec3952-f714-45f2-8764-93134b6780ab)
+
+![image](https://github.com/mullertron/Create-Always-on-AG/assets/79084450/0c94d859-489d-4995-b284-30afebb2fb3a)
+
+
 
 
 
