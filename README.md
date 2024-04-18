@@ -25,7 +25,7 @@ A new resource group will then be created in the region you chose
 Run the following commands to deploy the files
 
 ~~~~~
-az deployment group create --resource-group [RGName] --template-file lab04-setup.bicep
+az deployment group create --resource-group [RGName] --template-file ag-setup.bicep
 ~~~~~
 
 Note: The Deployment will take about 20 minutes to complete
